@@ -1,0 +1,17 @@
+{
+  "name": "remove",
+  "version": "1.0.0",
+  "description": "Remove all files of chosen extension in chosen directory and it's included directories",
+  "main": "remove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remove"
+  ],
+  "author": "Mahmoud Elzoka",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
